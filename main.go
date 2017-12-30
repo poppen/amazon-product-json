@@ -8,8 +8,8 @@ import (
 	"os"
 
 	"github.com/BurntSushi/toml"
-	"github.com/dominicphillips/amazing"
 	"github.com/labstack/echo"
+	"github.com/poppen/amazing"
 )
 
 const (
